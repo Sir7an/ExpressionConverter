@@ -42,8 +42,8 @@ It’s especially useful for students or anyone who wants to understand how expr
 
 ## 📸 Screenshot
 
-![App Screenshot](path/to/screenshot.png)  
-> _Replace with actual image path if you upload one._
+![App Screenshot](./ExpressionConverterAndEvaluator_1.PNG)  
+![App Screenshot](./ExpressionConverterAndEvaluator_2.PNG)  
 
 ---
 
@@ -51,4 +51,4 @@ It’s especially useful for students or anyone who wants to understand how expr
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YourUsername/InfixPostfixConverter.git
+   git clone https://github.com/Sir7an/ExpressionConverter.git
