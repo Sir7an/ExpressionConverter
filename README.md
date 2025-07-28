@@ -42,8 +42,8 @@ It’s especially useful for students or anyone who wants to understand how expr
 
 ## 📸 Screenshot
 
-![App Screenshot](./ExpressionConverterAndEvaluator_1.PNG)  
-![App Screenshot](./ExpressionConverterAndEvaluator_2.PNG)  
+![App Screenshot](./ExpressionConverterِAndEvaluator_1.PNG)  
+![App Screenshot](./ExpressionConverterِAndEvaluator_2.PNG)  
 
 ---
 
