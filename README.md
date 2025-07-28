@@ -22,21 +22,21 @@ It’s especially useful for students or anyone who wants to understand how expr
 
 ---
 
+## ✨ Features
+
+- Converts infix expressions to postfix instantly  
+- Evaluates expressions based on user input values  
+- Supports variables and exponents  
+- Clear and simple graphical user interface (GUI)  
+- Useful for learning expression evaluation and stack algorithms
+
+---
+
 ## 🛠️ Built With
 
 - **Java** – for the main application logic and GUI  
 - **CSS (JavaFX style sheets)** – for styling the user interface  
-- **Stack Data Structure** – used for both conversion and evaluation logic
-
----
-
-## ✨ Features
-
-- Converts infix to postfix instantly  
-- Evaluates expressions based on user-defined values  
-- Clean and responsive GUI  
-- Simple and easy-to-use design  
-- Great for learning or practicing expression evaluation concepts
+- **Stack Data Structure** – used for conversion and evaluation
 
 ---
 
@@ -46,7 +46,6 @@ It’s especially useful for students or anyone who wants to understand how expr
 > _Replace with actual image path if you upload one._
 
 ---
-
 
 ## 🚀 How to Run
 
