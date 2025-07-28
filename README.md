@@ -47,9 +47,9 @@ It’s especially useful for students or anyone who wants to understand how expr
 
 ---
 
-## 📂 How to Run
 
-Make sure you have Java installed.
+## 🚀 How to Run
 
-1. Clone the repository:
+1. Clone the repository:  
    ```bash
+   git clone https://github.com/YourUsername/InfixPostfixConverter.git
